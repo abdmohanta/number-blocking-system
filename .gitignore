@@ -1,0 +1,41 @@
+# Maven
+target/
+*.jar
+*.war
+*.rar
+*.ear
+*.zip
+*.tar.gz
+.mvn/timing.properties
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Application
+log/
+logs/
+*.log
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Build
+build/
+dist/
+
+# Miscellaneous
+*.class
+*.classpath
+*.project
+.gradle/
+.nb-gradle/
