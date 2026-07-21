@@ -1,0 +1,20 @@
+# application.yml
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/blocking_db
+    username: postgres
+    password: 12345
+    hikari:
+      maximum-pool-size: 20
+
+  jpa:
+    hibernate:
+      ddl-auto: validate
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQL95Dialect
+        format_sql: true
+
+  logging:
+    level:
+      com.yourapp: DEBUG

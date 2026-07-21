@@ -1,0 +1,3 @@
+com\number_blocking_system\dto\BlockRequestDTO.class
+com\number_blocking_system\dto\BlockResponseDTO.class
+com\number_blocking_system\dto\BlockDetailsDTO.class

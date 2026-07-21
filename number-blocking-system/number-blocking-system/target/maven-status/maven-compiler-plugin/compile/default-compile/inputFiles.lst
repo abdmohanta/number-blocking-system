@@ -1,0 +1,10 @@
+C:\Users\hp\OneDrive\Desktop\number-blocking-system\number-blocking-system\src\main\java\com\number_blocking_system\dto\BlockRequestDTO.java
+C:\Users\hp\OneDrive\Desktop\number-blocking-system\number-blocking-system\src\main\java\com\number_blocking_system\service\BlockingService.java
+C:\Users\hp\OneDrive\Desktop\number-blocking-system\number-blocking-system\src\main\java\com\number_blocking_system\NumberBlockingSystemApplication.java
+C:\Users\hp\OneDrive\Desktop\number-blocking-system\number-blocking-system\src\main\java\com\number_blocking_system\dto\BlockStatisticsDTO.java
+C:\Users\hp\OneDrive\Desktop\number-blocking-system\number-blocking-system\src\main\java\com\number_blocking_system\entity\BlockedNumber.java
+C:\Users\hp\OneDrive\Desktop\number-blocking-system\number-blocking-system\src\main\java\com\number_blocking_system\controller\BlockingController.java
+C:\Users\hp\OneDrive\Desktop\number-blocking-system\number-blocking-system\src\main\java\com\number_blocking_system\dto\BlockResponseDTO.java
+C:\Users\hp\OneDrive\Desktop\number-blocking-system\number-blocking-system\src\main\java\com\number_blocking_system\repository\BlockedNumberRepository.java
+C:\Users\hp\OneDrive\Desktop\number-blocking-system\number-blocking-system\src\main\java\com\number_blocking_system\dto\BlockDetailsDTO.java
+C:\Users\hp\OneDrive\Desktop\number-blocking-system\number-blocking-system\src\main\java\com\number_blocking_system\BlockingInitializer.java
