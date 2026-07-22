@@ -137,10 +137,10 @@ CREATE TABLE blocked_numbers (
 4. Push to the branch
 5. Create a Pull Request
 
-## License
+## License Details
 
 MIT License
 
-## Author
+## Author 
 
 **abdmohanta** - [GitHub Profile](https://github.com/abdmohanta)
