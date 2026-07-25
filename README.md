@@ -143,4 +143,5 @@ MIT License
 
 ## Author 
 
+**abdmohanta** - [Instagram Profile](https://www.instagram.com/abdmohanta/?__pwa=1)
 **abdmohanta** - [GitHub Profile](https://github.com/abdmohanta)
