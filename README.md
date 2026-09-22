@@ -26,7 +26,7 @@ A production-ready Spring Boot application that implements an automatic number b
 
 ### Prerequisites
 
-- Java 17+
+- Java 21+
 - PostgreSQL 14+
 - Maven 3.8+
 
